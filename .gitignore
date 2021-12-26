@@ -1,0 +1,5 @@
+.terraform
+*.backup
+local.tfvars
+pki
+terraform.tfstate
